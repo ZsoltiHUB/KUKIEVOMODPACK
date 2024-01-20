@@ -21,3 +21,6 @@ same
 
 ### v1.5.0
 sameeeeeeee
+
+### v1.6.0 
+revamp
