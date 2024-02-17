@@ -30,3 +30,6 @@ sameeeeeeee
 ### v1.6.0 
 revamp
 now with many mod
+
+### v1.7.0
+big updat

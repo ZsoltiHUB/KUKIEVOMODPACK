@@ -8,7 +8,7 @@
     "global_scrap_amount_multiplier": 1.0,
     "global_scrap_value_multiplier": 1.0,
     "global_max_power_multiplier": 1.0,
-    "deadline_length": 3,
+    "deadline_length": 0,
     "start_credits": 60,
     "activate_portable_terminal": false,
     "enable_cosmetics": true,
