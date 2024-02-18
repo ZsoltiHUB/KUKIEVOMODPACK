@@ -1,6 +1,6 @@
 {
     "name": "KUKIEVO_MODPACK",
-    "version_number": "1.7.2",
+    "version_number": "1.7.3",
     "website_url": "https://github.com/ZsoltiHUB/KUKIEVOMODPACK",
     "description": "[NAGY UPDATE 2] Kuki EVŐ modpack az ELIT számára.",
     "dependencies": [
@@ -34,7 +34,6 @@
         "2018-LC_API-3.4.5",
         "5Bit-VoiceHUD-1.0.4",
         "taffyko-NameplateTweaks-1.0.6",
-        "tinyhoot-ShipLoot-1.0.0",
         "NotAtomicBomb-TerminalApi-1.5.1",
         "NotAtomicBomb-Terminal_Clock-1.0.5",
         "Steven-Custom_Boombox_Music-1.4.0",
@@ -45,7 +44,6 @@
         "apexmods-ApexCustomBoombox-1.0.6",
         "Midge-PushCompany-1.2.0",
         "FlipMods-MoreBlood-1.0.2",
-        "FlipMods-HotbarPlus-1.5.7",
         "x753-More_Suits-1.4.1",
         "Zduniusz-LBtoKG-1.0.0",
         "Rozebud-FOV_Adjust-1.1.1",
